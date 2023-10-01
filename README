@@ -8,58 +8,56 @@ The Blood Donation Website project aims to bridge the gap between blood donors a
 
 1. **HOMEPAGE**
    - Description: The landing page of the website, providing an overview of the platform and its purpose.
-   - Image: ![Homepage](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.002.jpeg)
+   - Image: ![Homepage](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.002.jpeg)
 
 2. **DONOR REGISTRATION**
    - Description: Allows individuals to register as blood donors by providing their personal and medical information.
-   - Image: ![Donor Registration](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.003.jpeg)
+   - Image: ![Donor Registration](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.003.jpeg)
 
 3. **PATIENT REGISTRATION**
    - Description: Enables patients or their representatives to register and request blood donations.
-   - Image: ![Patient Registration](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.004.jpeg)
+   - Image: ![Patient Registration](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.004.jpeg)
 
 4. **DONOR LOGIN**
    - Description: Provides registered donors with secure access to their accounts.
-   - Image: ![Donor Login](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.005.jpeg)
+   - Image: ![Donor Login](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.005.jpeg)
 
 5. **DONOR DASHBOARD**
    - Description: A personalized dashboard for donors to update their information, view donation history, and manage availability.
-   - Image: ![Donor Dashboard](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.006.jpeg)
+   - Image: ![Donor Dashboard](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.006.jpeg)
 
 6. **PATIENT LOGIN**
    - Description: Allows registered patients to log in and manage their requests and appointments.
-   - Image: ![Patient Login](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.007.jpeg)
+   - Image: ![Patient Login](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.007.jpeg)
 
 7. **PATIENT DASHBOARD**
    - Description: A dashboard for patients to track donation requests, view donor profiles, and schedule appointments.
-   - Image: ![Patient Dashboard](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.008.jpeg)
+   - Image: ![Patient Dashboard](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.008.jpeg)
 
 8. **DONOR AVAILABILITY DASHBOARD**
    - Description: Displays the availability status of donors, helping patients find donors quickly.
-   - Image: ![Donor Availability Dashboard](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.009.jpeg)
+   - Image: ![Donor Availability Dashboard](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.009.jpeg)
 
 9. **ADMIN LOGIN**
    - Description: Secure access for administrators to manage and oversee the platform's operations.
-   - Image: ![Admin Login](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.010.png)
+   - Image: ![Admin Login](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.010.png)
 
 10. **ADMIN PANEL**
     - Description: An administrative interface to manage user accounts, donations, and system settings.
-    - Image: ![Admin Panel](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.011.jpeg)
+    - Image: ![Admin Panel](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.011.jpeg)
 
 11. **ABOUT US**
     - Description: Information about the organization or team behind the website, its mission, and values.
-    - Image: ![About Us](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.012.png)
+    - Image: ![About Us](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.012.png)
 
 12. **CAN YOU DONATE PAGE**
     - Description: Educational content explaining eligibility criteria for blood donation.
-    - Image: ![Can You Donate Page](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.013.png)
+    - Image: ![Can You Donate Page](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.013.png)
 
 13. **CONTACT PAGE**
     - Description: Contact details and a form for inquiries and feedback.
-    - Image: ![Contact Page](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.014.jpeg)
+    - Image: ![Contact Page](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.014.jpeg)
 
 14. **CHATBOT**
     - Description: Integration of a chatbot to assist users in finding information and donors.
-    - Image: ![Chatbot](https://github.com/Aman-290/Blood4Life/tree/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.015.png)
-
-
+    - Image: ![Chatbot](https://github.com/Aman-290/Blood4Life/blob/main/mdimage/Aspose.Words.e0ea60a6-f323-40c4-9d02-b9242778248d.015.png)
