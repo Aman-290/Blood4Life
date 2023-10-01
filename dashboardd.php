@@ -170,8 +170,8 @@ echo '</tr>';
 // Display sorted rows
 foreach ($data as $row) {
     echo '<tr class="details-row">';
-    echo '<td>' . htmlspecialchars($name) . '</td>';
-    echo '<td>' . htmlspecialchars($bloodgroup) . '</td>';
+    echo '<td>' . htmlspecialchars($row['name']) . '</td>';
+    echo '<td>' . htmlspecialchars($row['bloodgroup']) . '</td>';
     echo '<td>' . htmlspecialchars($row['state']) . '</td>';
     echo '</tr>';
     echo '<tr class="hidden-row">';
